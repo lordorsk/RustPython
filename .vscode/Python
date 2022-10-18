@@ -1,0 +1,7 @@
+   "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable 'rustpython'",
+            "preLaunchTask": "Build RustPython Debug",
+            "program": "target/debug/rustpython",
+            "args": [],
+            "cwd": "${workspaceFolder}"
